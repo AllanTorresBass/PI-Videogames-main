@@ -1,0 +1,64 @@
+ 
+  .portfolio-card-2 {
+     
+    position: relative;
+    width: 100%;
+    margin: 0 auto;
+    display: block;
+  }
+  .portafolio-card-2 a {
+    text-decoration: none;
+  }
+  
+  
+ 
+  .portfolio-card-info-2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 135%;
+    padding: 0.3rem;
+    background-color: black;
+    color: white;
+
+    opacity: 0;
+    pointer-events: none;
+    transition: all 0.5s ease-in-out;
+  }
+ 
+  .portfolio-card-2:hover .portfolio-card-info-2 {
+     
+    opacity: 1;
+    pointer-events: auto;
+     
+  }
+  
+  .portfolio-card-info-2 > div {
+    padding: 0.3rem;
+    border: thin solid var(--white-color);
+    width: 100%;
+    height: 100%;
+  } 
+   .portfolio-card-back-2 {
+    
+    top: 0;
+    left: 0;
+    width: 250px;
+    height: 250px;
+    padding: 0.2rem;
+    background-color:black;
+    color: white;
+   
+  }
+  .portfolio-card-back-2 > div {
+    padding: 0.5rem;
+    border: thin solid var(--white-color);
+    width: 100%;
+    height: 100%;
+  }
+ 
+ 
+   
+ 
+  

@@ -1,0 +1,39 @@
+.img {
+  width: 800px;
+  height: 500px;
+  margin: 20px;
+}
+
+.box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+}
+
+.desc {
+  margin: 10px;
+  color: rgb(241, 237, 22);
+  align-self: center;
+  margin-right: 5px;
+}
+
+.det {
+  margin: 10px;
+  color: rgb(241, 237, 22);
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 800px;
+  border-style: solid;
+  border-color: rgb(241, 237, 22);
+  border-width: 3px;
+  background-color: rgba(75, 75, 75, 0.5);
+  margin-bottom: 20px;
+}
+ 

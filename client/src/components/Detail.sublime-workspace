@@ -1,0 +1,836 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"useRe",
+				"useReducer"
+			],
+			[
+				"ac",
+				"action"
+			],
+			[
+				"pa",
+				"payload"
+			],
+			[
+				"shop",
+				"shoppingInitialState"
+			],
+			[
+				"item",
+				"itemInCart"
+			],
+			[
+				"bu",
+				"button"
+			],
+			[
+				"new",
+				"newIten"
+			],
+			[
+				"del",
+				"delFromCart"
+			],
+			[
+				"car",
+				"CartItem"
+			],
+			[
+				"grid-tem",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"add",
+				"addToCart"
+			],
+			[
+				"use",
+				"useReducer\tuseReducer"
+			],
+			[
+				"di",
+				"dispatch"
+			],
+			[
+				"con",
+				"contador"
+			],
+			[
+				"useR",
+				"useReducer\tuseReducer"
+			],
+			[
+				"co",
+				"count"
+			],
+			[
+				"Crud",
+				"CrudProvaider"
+			],
+			[
+				"Cru",
+				"CrudContext"
+			],
+			[
+				"Cr",
+				"CrudContext"
+			],
+			[
+				"imp",
+				"import"
+			],
+			[
+				"de",
+				"deleteData"
+			],
+			[
+				"Theme",
+				"ThemeProvider"
+			],
+			[
+				"the",
+				"ThemeProvider"
+			],
+			[
+				"rafc",
+				"rafc,rafce\treactArrowFunctionComponent"
+			],
+			[
+				"a",
+				"auth"
+			],
+			[
+				"handle",
+				"handleAuth"
+			],
+			[
+				"han",
+				"handleAuth"
+			],
+			[
+				"initi",
+				"initialAuth"
+			],
+			[
+				"set",
+				"setTexts"
+			],
+			[
+				"te",
+				"texts"
+			],
+			[
+				"ha",
+				"hadleLanguage"
+			],
+			[
+				"ta",
+				"translations"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"us",
+				"useCallback\tuseCallback"
+			],
+			[
+				"Con",
+				"ContadorHijo"
+			],
+			[
+				"song",
+				"songs"
+			],
+			[
+				"son",
+				"songs"
+			],
+			[
+				"is",
+				"isDelete"
+			],
+			[
+				"li",
+				"lyric"
+			],
+			[
+				"Son",
+				"SonPages"
+			],
+			[
+				"Can",
+				"canciones"
+			],
+			[
+				"handleS",
+				"handleSaveSong"
+			],
+			[
+				"canci",
+				"canción"
+			],
+			[
+				"Rou",
+				"Route"
+			],
+			[
+				"ar",
+				"article"
+			],
+			[
+				"S",
+				"Switch"
+			],
+			[
+				"nav",
+				"NavLink"
+			],
+			[
+				"he",
+				"headers"
+			],
+			[
+				"h",
+				"HashRouter"
+			],
+			[
+				"Router",
+				"react-router-dom"
+			],
+			[
+				"Re",
+				"Redirect"
+			],
+			[
+				"Pr",
+				"PrivateRoute"
+			],
+			[
+				"cons",
+				"const"
+			],
+			[
+				"Tp",
+				"topic"
+			],
+			[
+				"rra",
+				"rafc,rafce\treactArrowFunctionComponent"
+			],
+			[
+				"redi",
+				"redirect\treact-router Redirect"
+			],
+			[
+				"b",
+				"button"
+			],
+			[
+				"Ro",
+				"Route"
+			],
+			[
+				"ro",
+				"router\tRouter.Route"
+			],
+			[
+				"im",
+				"imrd\timport react-dom"
+			],
+			[
+				"raf",
+				"rafc,rafce\treactArrowFunctionComponent"
+			],
+			[
+				"rea",
+				"ReactDOM"
+			],
+			[
+				"clo",
+				"closeModal"
+			],
+			[
+				"open",
+				"openModal1"
+			],
+			[
+				"id",
+				"isModal1"
+			],
+			[
+				"max-h",
+				"max-width\tproperty"
+			],
+			[
+				"ma",
+				"max-width\tproperty"
+			],
+			[
+				"ea",
+				"email"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"com",
+				"comments"
+			],
+			[
+				"rege",
+				"regexName"
+			],
+			[
+				"va",
+				"validateForm"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"text",
+				"textarea"
+			],
+			[
+				"ra",
+				"rafc,rafce\treactArrowFunctionComponent"
+			],
+			[
+				"border-r",
+				"border-radius\tproperty"
+			],
+			[
+				"se",
+				"setLoading"
+			],
+			[
+				"so",
+				"songUrl"
+			],
+			[
+				"help",
+				"helpHttp"
+			],
+			[
+				"Song",
+				"SongForm"
+			],
+			[
+				"st",
+				"styles"
+			],
+			[
+				"ce",
+				"center \tM-Ui"
+			],
+			[
+				"imr",
+				"imrp\timport Perf"
+			],
+			[
+				"lo",
+				"loading"
+			],
+			[
+				"hel",
+				"helpHttp"
+			],
+			[
+				"status",
+				"statusText"
+			],
+			[
+				"sta",
+				"status"
+			],
+			[
+				"en",
+				"endpoint"
+			],
+			[
+				"me",
+				"method"
+			],
+			[
+				"grid",
+				"grid-template-areas\tproperty"
+			],
+			[
+				"thi",
+				"thin\tborder-bottom"
+			],
+			[
+				"border-",
+				"border-bottom\tproperty"
+			],
+			[
+				"border-c",
+				"border-collapse\tproperty"
+			],
+			[
+				"bor",
+				"border-spacing\tproperty"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"o",
+				"outline\tproperty"
+			],
+			[
+				"margi",
+				"margin-bottom\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"dat",
+				"dataToEdit"
+			],
+			[
+				"cre",
+				"createData"
+			],
+			[
+				"C",
+				"CrudTableRow"
+			],
+			[
+				"hand",
+				"handleSubmit"
+			],
+			[
+				"rfc",
+				"rfce\treactFunctionalExportComponent"
+			],
+			[
+				"rar",
+				"rafc,rafce\treactArrowFunctionComponent"
+			],
+			[
+				"mrs",
+				"mui-input-pickers:time\t Time Picker "
+			],
+			[
+				"m",
+				"moduleStyles"
+			],
+			[
+				"ca",
+				"cwa\tconsoleWarn"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"Es",
+				"Estilos"
+			],
+			[
+				"handleCh",
+				"handleCheked"
+			],
+			[
+				"an",
+				"angular"
+			],
+			[
+				"u",
+				"useState\tuseState"
+			],
+			[
+				"Fr",
+				"Formularios"
+			],
+			[
+				"ref",
+				"refMenu"
+			],
+			[
+				"statu",
+				"statusText"
+			],
+			[
+				"get",
+				"getPokemons"
+			],
+			[
+				"Moi",
+				"modifique"
+			],
+			[
+				"scr",
+				"scrollY"
+			],
+			[
+				"p",
+				"pokemons"
+			],
+			[
+				"po",
+				"pokemons"
+			],
+			[
+				"pokemo",
+				"pokemons"
+			],
+			[
+				"comp",
+				"componente"
+			],
+			[
+				"t",
+				"temporizador"
+			],
+			[
+				"i",
+				"incrementarContador"
+			],
+			[
+				"s",
+				"state"
+			],
+			[
+				"coon",
+				"contador"
+			],
+			[
+				"el",
+				"ElementoLista"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"Install page control",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax j",
+				"Set Syntax: JSX"
+			],
+			[
+				"pack control ins",
+				"Package Control: Install Package"
+			],
+			[
+				"contr",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/alanpc/Desktop/PI/PI-Food-main/api/index.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/CrudAPiReducers/src/helpers/helpHttp.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/CrudAPiReducers/src/reducers/crudReducer.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/CrudAPiReducers/src/components/CrudApi.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/CrudAPi/src/components/Loader.js",
+		"/C/Users/alanpc/Desktop/PI/Maquetación PI/package.json",
+		"/C/Users/alanpc/Desktop/John Mircha/react/BuscardorCanciones/src/components/Loader.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/BuscardorCanciones/src/components/Loader.css",
+		"/C/Users/alanpc/Desktop/John Mircha/react/BuscardorCanciones/src/helpers/helpHttp.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/BuscardorCanciones/src/components/CrudApi.js",
+		"/C/Users/alanpc/Desktop/aply.html",
+		"/C/Users/alanpc/Desktop/PI/PI_Videogames_Leo/api/package.json",
+		"/C/Users/alanpc/Desktop/PI/PI_Videogames_Leo/api/.eslintrc.json",
+		"/C/Users/alanpc/Desktop/John Mircha/react/CrudAPiReducers/node_modules/@gar/promisify/README.md",
+		"/C/Users/alanpc/Desktop/John Mircha/react/ReducersShopingCart/src/reducers/ShoppingReducer.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/ReducersShopingCart/src/reducers/contadorReducer.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/CrudAPiReducers/src/App.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/ReducersShopingCart/src/components/ShoppingCart.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/ReducersShopingCart/src/actions/contadorAction.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/ReducersShopingCart/src/actions/ShoppingAction.js",
+		"/C/Users/alanpc/Desktop/John Mircha/youtube-react/06-react-reducers/src/reducers/shoppingReducer.js",
+		"/C/Users/alanpc/Desktop/John Mircha/youtube-react/06-react-reducers/src/components/ShoppingCart.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/ReducersShopingCart/package.json",
+		"/C/Users/alanpc/Desktop/John Mircha/react/ReducersShopingCar/src/components/ShoppingCart.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/ReducersShopingCar/src/components/ProductItem.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/ReducersShopingCar/src/components/CartItem.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/ReducersShopingCar/src/reducers/ShoppingReducer.js",
+		"/C/Users/alanpc/Desktop/John Mircha/youtube-react/06-react-reducers/src/components/CartItem.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/ReducersShopingCar/src/index.css",
+		"/C/Users/alanpc/Desktop/John Mircha/react/ReducersShopingCar/src/actions/ShoppingAction.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/ReducersShopingCar/src/actions/contadorAction.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/ReducersShopingCar/src/reducers/contadorReducer.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/ReducersShopingCar/src/App.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/ReducersEstructura/src/actions/contadorAction.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/ReducersEstructura/src/reducers/contadorReducer.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/ReducersEstructura/src/components/Contador.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/CrudAPiContext/src/components/CrudApi.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/CrudAPiContext/src/App.js",
+		"/C/Users/alanpc/Desktop/John Mircha/youtube-react/05-react-context/src/context/CrudContext.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/CrudAPiContext/src/context/CrudContext.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/ReducersIntroduccion/package.json",
+		"/C/Users/alanpc/Desktop/John Mircha/react/CrudAPiContext/src/components/CrudTableRow.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/CrudAPiContext/src/components/CrudTable.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/CrudAPiContext/src/components/CrudForm.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/CrudAPiContext/package.json",
+		"/C/Users/alanpc/Desktop/John Mircha/react/Context API/src/context/LanguageContext.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/Context API/src/components/FooterContext.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/Context API/src/context/ThemeContext.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/Context API/src/components/MainContext.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/Context API/src/components/HeaderContext.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/Context API/src/App.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/Context API/src/components/MyPageContext.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/Context API/src/components/MyPage.js",
+		"/C/Users/alanpc/Desktop/John Mircha/youtube-react/05-react-context/src/components/MyPage.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/Context API/src/components/Header.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/Context API/src/components/Main.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/Context API/src/index.css",
+		"/C/Users/alanpc/Desktop/John Mircha/react/Context API/src/components/Footer.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/Memorization/src/App.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/Memorization/src/components/Contador.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/Memorization/src/components/ContadorHijo.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/MyRouterSongSearch/src/Pages/SongPages.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/MyRouterSongSearch/src/components/SongSearch.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/MyRouterSongSearch/src/components/SongForm.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/MyRouterSongSearch/src/components/SongTableRow.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/MyRouterSongSearch/src/components/SongTable.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/MyRouterSongSearch/src/index.css",
+		"/C/Users/alanpc/Desktop/John Mircha/react/MyRouterSongSearch/src/App.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/MyRouterSongSearch/src/components/SongLyric.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/MyRouterEjecicios/src/index.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/MyRouterEjecicios/src/components/CrudTableRow.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/MyRouterEjecicios/src/components/CrudApi.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/MyRouterEjecicios/src/components/CrudForm.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/MyRouterEjecicios/src/App.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/MyRouterEjecicios/src/components/ConceptosBasicos.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/myrouter/src/components/ConceptosBasicos.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/myrouter/src/Pages/Dashboard.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/myrouter/src/Pages/Login.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/myrouter/src/components/MenuConceptos.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/myrouter/src/components/PrivateRoute.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/myrouter/src/Pages/ReactTopics.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/myrouter/src/Pages/Error404.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/myrouter/src/Pages/Usuario.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/myrouter/src/Pages/Productos.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/myrouter/src/index.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/myrouter/src/Pages/Home.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/myrouter/src/Pages/Acerca.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/myrouter/src/Pages/Contacto.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/myrouter/src/App.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/myrouter/src/Pages/Concepto.js",
+		"/C/Users/alanpc/Desktop/John Mircha/youtube-react/03-react-rutas/package.json",
+		"/C/Users/alanpc/Desktop/John Mircha/react/ReactRouter/src/components/ConceptosBasicos.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/ReactRouter/src/App.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/ReactRouter/src/index.css",
+		"/C/Users/alanpc/Desktop/PI/PI-Food-main/client/src/App.js",
+		"/C/Users/alanpc/Desktop/PI/PI-Food-main/client/src/index.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/VentanaModal/src/App.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/VentanaModal/src/hooks/UseModal.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/VentanaModal/src/components/Modalx.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/VentanaModal/src/components/Modals.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/VentanaModal/src/components/Modal.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/VentanaModal/src/components/Modal.css",
+		"/C/Users/alanpc/Desktop/John Mircha/react/VentanaModal/package.json",
+		"/C/Users/alanpc/Desktop/John Mircha/react/ValidForm/src/index.css",
+		"/C/Users/alanpc/Desktop/John Mircha/react/SelectAnidados/src/App.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/SelectAnidados/src/index.css",
+		"/C/Users/alanpc/Desktop/John Mircha/react/ValidForm/package.json",
+		"/C/Users/alanpc/Desktop/John Mircha/react/SelectAnidados/src/components/token API",
+		"/C/Users/alanpc/Desktop/John Mircha/react/SelectAnidados/src/hooks/useFetch.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/SelectAnidados/src/components/SelectAnidados.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/BuscardorCanciones/src/index.css",
+		"/C/Users/alanpc/Desktop/John Mircha/react/BuscardorCanciones/src/App.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/SelectAnidados/package.json",
+		"/C/Users/alanpc/Desktop/John Mircha/react/BuscardorCanciones/src/components/Message.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/BuscardorCanciones/src/components/SongLyric.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/BuscardorCanciones/src/components/SongSearch.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/BuscardorCanciones/src/components/SongDetails.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/BuscardorCanciones/src/components/SongForm.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/React#4/src/components/SongSearch.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/React#4/src/components/SongDetails.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/React#4/src/components/CrudApi.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/React#4/src/components/SongForm.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/React#4/src/components/SongLyric.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/React#4/src/components/SongArtist.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/React#4/src/App.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/React#2/src/components/CrudApp.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/React#3/src/components/CrudTable.js",
+		"/C/Users/alanpc/Desktop/John Mircha/react/React#3/src/components/Loader.css"
+	],
+	"find":
+	{
+		"height": 22.4
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.4
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Detail.sublime-project",
+	"replace":
+	{
+		"height": 41.6
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 157.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
